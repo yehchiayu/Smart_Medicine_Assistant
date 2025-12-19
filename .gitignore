@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+out/
+out_audio/
+out_json/
+.DS_Store
+
